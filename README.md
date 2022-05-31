@@ -1,6 +1,6 @@
 ## ✨ Bienvenid@ ✨
 
-### Soy Gilliam Argel, Front- End Developer. Gracias por visitar mi perfil de Git Hub.
+### Soy Gilliam Argel, Front- End Developer. Gracias por visitar mi perfil de Git Hub :v: :sparkling_heart:
 
 Codear :woman_technologist:, viajar :earth_americas: :airplane:, y la buena comida :wine_glass: :plate_with_cutlery: son mi pasión!
 
