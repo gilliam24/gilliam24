@@ -23,6 +23,6 @@ Codear :woman_technologist:, viajar :earth_americas: :airplane:, y la buena comi
 
 
 ### Contacto:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gilliam-argel//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gilliam-argel//) 
 
 
